@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+h1, h2, h3, h4, qe, orobriz{
+	text-align: center;
+}
+
+.footer{
+	bottom: -200px;
+	width: 100%;
+	margin-top: 50px;
+}
